@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4C80CB21-18A1-4D88-9711-DCE96D129FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvestmentPlatform.Domain", "src\InvestmentPlatform.Domain\InvestmentPlatform.Domain.csproj", "{04FD6D4D-E899-4489-80DD-D21F5865B5BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6E566B60-2F54-4BA0-AB51-DC9F4E308D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvestmentPlatform.Domain.Tests", "tests\InvestmentPlatform.Domain.Tests\InvestmentPlatform.Domain.Tests.csproj", "{7535710A-0731-4D3B-86BB-BA8442ED908C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FD6D4D-E899-4489-80DD-D21F5865B5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FD6D4D-E899-4489-80DD-D21F5865B5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FD6D4D-E899-4489-80DD-D21F5865B5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FD6D4D-E899-4489-80DD-D21F5865B5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7535710A-0731-4D3B-86BB-BA8442ED908C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7535710A-0731-4D3B-86BB-BA8442ED908C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7535710A-0731-4D3B-86BB-BA8442ED908C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7535710A-0731-4D3B-86BB-BA8442ED908C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04FD6D4D-E899-4489-80DD-D21F5865B5BE} = {4C80CB21-18A1-4D88-9711-DCE96D129FA9}
+		{7535710A-0731-4D3B-86BB-BA8442ED908C} = {6E566B60-2F54-4BA0-AB51-DC9F4E308D61}
+	EndGlobalSection
+EndGlobal

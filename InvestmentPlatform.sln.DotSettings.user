@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58c56b00_002Df81e_002D48fd_002Da74f_002Dc8e84271fcf4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Continuous Testing" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=801c405f_002D2488_002D417f_002Da790_002Dca84dd67a8bb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Account_PreservesExistingProperties" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::7535710A-0731-4D3B-86BB-BA8442ED908C::net8.0::InvestmentPlatform.Domain.Tests.DomainTests.Account_PreservesExistingProperties&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7535710A-0731-4D3B-86BB-BA8442ED908C::net8.0::InvestmentPlatform.Domain.Tests.DomainTests.Money_HasValueEqualityAndNormalizesCurrency&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7535710A-0731-4D3B-86BB-BA8442ED908C::net8.0::InvestmentPlatform.Domain.Tests.DomainTests.Money_RejectsInvalidCurrency&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7535710A-0731-4D3B-86BB-BA8442ED908C::net8.0::InvestmentPlatform.Domain.Tests.DomainTests.Account_RejectsInvalidDepositAmount&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7535710A-0731-4D3B-86BB-BA8442ED908C::net8.0::InvestmentPlatform.Domain.Tests.DomainTests.Order_CalculatesTotal&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7535710A-0731-4D3B-86BB-BA8442ED908C::net8.0::InvestmentPlatform.Domain.Tests.OrderQueryServiceTests.GetPendingOrders_AllCompleted_ReturnsEmpty&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

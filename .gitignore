@@ -1,0 +1,21 @@
+# 编译结果
+bin/
+obj/
+
+# Rider
+.idea/
+*.sln.iml
+
+# 测试结果
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+Thumbs.db
+.vs/
+work/
